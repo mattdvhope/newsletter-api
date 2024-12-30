@@ -1,25 +1,25 @@
 import buildResponse from './utils/buildResponse';
 import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 
-const allowedOrigins = ['https://www.sourceofallwealth.com', 'https://sourceofallwealth.com'];
+const allowedOrigin = 'https://www.sourceofallwealth.com';
 
 exports.handler = async (event) => {
     const origin = event.headers.origin;
 
     // Handle preflight OPTIONS requests
     if (event.httpMethod === 'OPTIONS') {
-        return buildResponse(200, null, origin, allowedOrigins);
+        return buildResponse(200, null, origin, allowedOrigin);
     }
 
     // Validate the origin
-    if (!allowedOrigins.includes(origin)) {
+    if (origin !== allowedOrigin) {
         console.warn(`Blocked request from invalid origin: ${origin}`);
-        return buildResponse(403, { message: 'Forbidden: Invalid Origin' }, origin, allowedOrigins);
+        return buildResponse(403, { message: 'Forbidden: Invalid Origin' }, origin, allowedOrigin);
     }
 
     // Allow only POST requests
     if (event.httpMethod !== 'POST') {
-        return buildResponse(405, { message: 'Method Not Allowed' }, origin, allowedOrigins);
+        return buildResponse(405, { message: 'Method Not Allowed' }, origin, allowedOrigin);
     }
 
     try {
@@ -27,7 +27,7 @@ exports.handler = async (event) => {
 
         // Validate required fields
         if (!name || !email) {
-            return buildResponse(400, { message: 'Missing required fields: name or email.' }, origin, allowedOrigins);
+            return buildResponse(400, { message: 'Missing required fields: name or email.' }, origin, allowedOrigin);
         }
 
         console.log('Newsletter registration request received:', { name, email });
@@ -38,11 +38,11 @@ exports.handler = async (event) => {
         // Return a success response
         return buildResponse(200, {
             message: 'Newsletter registration processed successfully.',
-        }, origin, allowedOrigins);
+        }, origin, allowedOrigin);
     } catch (error) {
         console.error('Error:', error);
 
         // Return an error response
-        return buildResponse(500, { message: 'Internal Server Error' }, origin, allowedOrigins);
+        return buildResponse(500, { message: 'Internal Server Error' }, origin, allowedOrigin);
     }
 };

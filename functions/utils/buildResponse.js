@@ -1,8 +1,8 @@
-const allowedOrigins = ['https://www.sourceofallwealth.com', 'https://sourceofallwealth.com'];
+const allowedOrigin = 'https://www.sourceofallwealth.com';
 
-const buildResponse = (statusCode, body, origin, allowedOrigins) => {
+const buildResponse = (statusCode, body, origin, allowedOrigin) => {
     // Validate the origin or set to null if invalid
-    const allowOrigin = allowedOrigins.includes(origin) ? origin : null;
+    const allowOrigin = origin === allowedOrigin ? origin : null;
 
     const headers = {
         'Access-Control-Allow-Origin': allowOrigin,
