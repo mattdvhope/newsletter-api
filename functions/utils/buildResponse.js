@@ -1,17 +1,12 @@
-const allowedOrigin = 'https://www.sourceofallwealth.com';
-
 const buildResponse = (statusCode, body, origin, allowedOrigin) => {
-    // Validate the origin or set to null if invalid
-    const allowOrigin = origin === allowedOrigin ? origin : null;
-
     const headers = {
-        'Access-Control-Allow-Origin': allowOrigin,
+        'Access-Control-Allow-Origin': origin === allowedOrigin ? allowedOrigin : null,
         'Access-Control-Allow-Headers': 'Content-Type',
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
-        'Access-Control-Allow-Credentials': true,
+        'Access-Control-Allow-Credentials': 'true',
     };
 
-    if (!allowOrigin) {
+    if (!headers['Access-Control-Allow-Origin']) {
         console.warn(`Invalid origin: ${origin}`);
     }
 

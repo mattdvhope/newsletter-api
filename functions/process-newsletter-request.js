@@ -8,7 +8,16 @@ exports.handler = async (event) => {
 
     // Handle preflight OPTIONS requests
     if (event.httpMethod === 'OPTIONS') {
-        return buildResponse(200, null, origin, allowedOrigin);
+        return {
+            statusCode: 200,
+            headers: {
+                'Access-Control-Allow-Origin': allowedOrigin,
+                'Access-Control-Allow-Headers': 'Content-Type',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Credentials': 'true',
+            },
+            body: '', // OPTIONS requests have an empty body
+        };
     }
 
     // Validate the origin
