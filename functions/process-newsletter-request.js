@@ -4,13 +4,14 @@ import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 const allowedOrigin = 'https://www.sourceofallwealth.com';
 
 exports.handler = async (event) => {
-    const origin = event.headers.origin;
+    console.log('HTTP Method:', event.httpMethod);
+    console.log('Origin:', event.headers.origin);
 
-    // Log the received origin for debugging
-    console.log('Received origin:', origin);
+    const origin = event.headers.origin;
 
     // Handle preflight OPTIONS requests
     if (event.httpMethod === 'OPTIONS') {
+        console.log('Handling preflight OPTIONS request');
         return {
             statusCode: 200,
             headers: {
