@@ -2,6 +2,20 @@ import buildResponse from './utils/buildResponse';
 import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 
 exports.handler = async (event) => {
+    // Handle preflight (OPTIONS) requests
+    if (event.httpMethod === 'OPTIONS') {
+        return {
+            statusCode: 200,
+            headers: {
+                'Access-Control-Allow-Origin': 'https://www.sourceofallwealth.com',
+                'Access-Control-Allow-Headers': 'Content-Type',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Credentials': 'true',
+            },
+            body: '',
+        };
+    }
+
     // Only allow POST requests
     if (event.httpMethod !== 'POST') {
         return buildResponse(405, { message: 'Method Not Allowed' });
@@ -23,7 +37,9 @@ exports.handler = async (event) => {
         await sendEmailWithMailgun(email);
 
         // Return a success response
-        return buildResponse(200, { message: 'Newsletter registration processed successfully, and email sent.' });
+        return buildResponse(200, {
+            message: 'Newsletter registration processed successfully, and email sent.',
+        });
     } catch (error) {
         console.error('Error processing newsletter registration:', error);
 
