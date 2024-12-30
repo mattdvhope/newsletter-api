@@ -1,6 +1,5 @@
-// functions/process-newsletter-request.js
-
 import buildResponse from './utils/buildResponse';
+import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 
 exports.handler = async (event) => {
     // Only allow POST requests
@@ -17,13 +16,14 @@ exports.handler = async (event) => {
             return buildResponse(400, { message: 'Missing required fields: name or email.' });
         }
 
-        // Log the received data (you can replace this with further processing)
+        // Log the received data
         console.log('Newsletter registration request received:', { name, email });
 
-        // Placeholder: Add any further logic here, like saving to a database or sending a confirmation email
+        // Send a welcome email
+        await sendEmailWithMailgun(email);
 
         // Return a success response
-        return buildResponse(200, { message: 'Newsletter registration processed successfully.' });
+        return buildResponse(200, { message: 'Newsletter registration processed successfully, and email sent.' });
     } catch (error) {
         console.error('Error processing newsletter registration:', error);
 

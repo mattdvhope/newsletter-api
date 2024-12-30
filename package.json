@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "mailgun.js": "^10.4.0"
+  }
 }
