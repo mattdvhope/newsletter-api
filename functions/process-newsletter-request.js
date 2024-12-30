@@ -4,10 +4,10 @@ import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 const allowedOrigin = 'https://www.sourceofallwealth.com';
 
 exports.handler = async (event) => {
-    console.log('HTTP Method:', event.httpMethod);
-    console.log('Origin:', event.headers.origin);
-
     const origin = event.headers.origin;
+
+    console.log('HTTP Method:', event.httpMethod);
+    console.log('Origin:', origin);
 
     // Handle preflight OPTIONS requests
     if (event.httpMethod === 'OPTIONS') {
@@ -27,7 +27,16 @@ exports.handler = async (event) => {
     // Validate the origin
     if (origin !== allowedOrigin) {
         console.warn(`Blocked request from invalid origin: ${origin}`);
-        return buildResponse(403, { message: 'Forbidden: Invalid Origin' }, null);
+        return {
+            statusCode: 403,
+            headers: {
+                'Access-Control-Allow-Origin': allowedOrigin,
+                'Access-Control-Allow-Headers': 'Content-Type',
+                'Access-Control-Allow-Methods': 'POST, OPTIONS',
+                'Access-Control-Allow-Credentials': 'true',
+            },
+            body: JSON.stringify({ message: 'Forbidden: Invalid Origin' }),
+        };
     }
 
     // Allow only POST requests

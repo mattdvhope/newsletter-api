@@ -6,10 +6,6 @@ const buildResponse = (statusCode, body, origin) => {
         'Access-Control-Allow-Credentials': 'true',
     };
 
-    if (!origin) {
-        console.warn('Invalid or missing origin in request.');
-    }
-
     return {
         statusCode,
         headers,
