@@ -1,11 +1,16 @@
 [build]
-  functions = "functions"
+  functions = "functions"  # Directory for serverless functions
+
+[build.environment]
+  GO_VERSION = "1.19.6"  # Specify a valid Go version
 
 [functions]
-  node_bundler = "esbuild"
+  node_bundler = "esbuild"  # Optional: specify the bundler (esbuild is recommended)
 
-[[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
-  force = true
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "https://www.sourceofallwealth.com"
+      Access-Control-Allow-Headers = "Content-Type"
+      Access-Control-Allow-Methods = "POST, OPTIONS"
+      Access-Control-Allow-Credentials = "true"
