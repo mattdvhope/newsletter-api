@@ -1,0 +1,16 @@
+[build]
+  functions = "functions"  # Directory for serverless functions
+
+[build.environment]
+  GO_VERSION = "1.19.6"  # Specify a valid Go version
+
+[functions]
+  node_bundler = "esbuild"  # Optional: specify the bundler (esbuild is recommended)
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      Access-Control-Allow-Origin = "https://sourceofallwealth.com, https://www.sourceofallwealth.com"
+      Access-Control-Allow-Headers = "Content-Type"
+      Access-Control-Allow-Methods = "POST, OPTIONS"
+      Access-Control-Allow-Credentials = "true"
