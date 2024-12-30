@@ -6,6 +6,9 @@ const allowedOrigin = 'https://www.sourceofallwealth.com';
 exports.handler = async (event) => {
     const origin = event.headers.origin;
 
+    // Log the received origin for debugging
+    console.log('Received origin:', origin);
+
     // Handle preflight OPTIONS requests
     if (event.httpMethod === 'OPTIONS') {
         return {
@@ -16,19 +19,19 @@ exports.handler = async (event) => {
                 'Access-Control-Allow-Methods': 'POST, OPTIONS',
                 'Access-Control-Allow-Credentials': 'true',
             },
-            body: '', // OPTIONS requests have an empty body
+            body: '',
         };
     }
 
     // Validate the origin
     if (origin !== allowedOrigin) {
         console.warn(`Blocked request from invalid origin: ${origin}`);
-        return buildResponse(403, { message: 'Forbidden: Invalid Origin' }, origin, allowedOrigin);
+        return buildResponse(403, { message: 'Forbidden: Invalid Origin' }, null);
     }
 
     // Allow only POST requests
     if (event.httpMethod !== 'POST') {
-        return buildResponse(405, { message: 'Method Not Allowed' }, origin, allowedOrigin);
+        return buildResponse(405, { message: 'Method Not Allowed' }, allowedOrigin);
     }
 
     try {
@@ -36,7 +39,7 @@ exports.handler = async (event) => {
 
         // Validate required fields
         if (!name || !email) {
-            return buildResponse(400, { message: 'Missing required fields: name or email.' }, origin, allowedOrigin);
+            return buildResponse(400, { message: 'Missing required fields: name or email.' }, allowedOrigin);
         }
 
         console.log('Newsletter registration request received:', { name, email });
@@ -47,11 +50,11 @@ exports.handler = async (event) => {
         // Return a success response
         return buildResponse(200, {
             message: 'Newsletter registration processed successfully.',
-        }, origin, allowedOrigin);
+        }, allowedOrigin);
     } catch (error) {
-        console.error('Error:', error);
+        console.error('Error processing request:', error);
 
         // Return an error response
-        return buildResponse(500, { message: 'Internal Server Error' }, origin, allowedOrigin);
+        return buildResponse(500, { message: 'Internal Server Error' }, allowedOrigin);
     }
 };

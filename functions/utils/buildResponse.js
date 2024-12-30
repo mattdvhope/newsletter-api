@@ -1,13 +1,13 @@
-const buildResponse = (statusCode, body, origin, allowedOrigin) => {
+const buildResponse = (statusCode, body, origin) => {
     const headers = {
-        'Access-Control-Allow-Origin': origin === allowedOrigin ? allowedOrigin : null,
+        'Access-Control-Allow-Origin': origin || 'https://www.sourceofallwealth.com',
         'Access-Control-Allow-Headers': 'Content-Type',
         'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Credentials': 'true',
     };
 
-    if (!headers['Access-Control-Allow-Origin']) {
-        console.warn(`Invalid origin: ${origin}`);
+    if (!origin) {
+        console.warn('Invalid or missing origin in request.');
     }
 
     return {
