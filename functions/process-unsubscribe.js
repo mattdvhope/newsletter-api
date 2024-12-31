@@ -1,7 +1,6 @@
-// functions/process-newsletter-request.js
+// functions/process-unsubscribe.js
 
 import buildResponse from './utils/buildResponse';
-import sendEmailWithMailgun from './helpers/sendEmailWithMailgun';
 
 exports.handler = async (event) => {
     const origin = event.headers.origin;
@@ -15,20 +14,19 @@ exports.handler = async (event) => {
     }
 
     try {
-        const { name, email } = JSON.parse(event.body);
+        const { email } = JSON.parse(event.body);
 
-        if (!name || !email) {
-            return buildResponse(400, { message: 'Missing required fields: name or email.' }, origin);
+        if (!email) {
+            return buildResponse(400, { message: 'Missing required field: email.' }, origin);
         }
 
-        console.log('Newsletter registration request received:', { name, email });
-        await sendEmailWithMailgun(email);
+        console.log(`Unsubscribe request received for email: ${email}`);
 
         return buildResponse(200, {
-            message: 'Newsletter registration processed successfully.',
+            message: 'Unsubscribe request processed successfully.',
         }, origin);
     } catch (error) {
-        console.error('Error:', error);
+        console.error('Error processing unsubscribe request:', error);
         return buildResponse(500, { message: 'Internal Server Error' }, origin);
     }
 };
