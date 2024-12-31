@@ -6,18 +6,18 @@ const body = `
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Man of Destiny Newsletter</title>
-    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Courier+Prime&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
 </head>
 <body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
     <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
-        <h1 style="font-family: 'Anton', Arial, sans-serif; font-size: 24px; color: #333; text-align: center; margin-bottom: 20px;">How to Become the Rare Christian Man Women Can’t Stop Talking About... Even If You’re Broke, Busy, and Barely Getting By!</h1>
+        <h1 style="font-family: Impact, Arial, sans-serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px;">How to Become the Rare Christian Man Women Can’t Stop Talking About... Even If You’re Broke, Busy, and Barely Getting By!</h1>
 
-        <div style="font-size: 16px; line-height: 1.6; color: #333;">
+        <div style="font-size: 21px; line-height: 2; color: #333;">
             <p>Hey, you. Yeah, you—the guy grinding away at his 9-to-5 (or maybe 5-to-9) and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
             <p>Well, let me tell you something, my friend. You absolutely DO have what it takes—but only if you learn the secret weapon I’m about to share: <strong>ambition balanced with contentment.</strong> Master this, and you’ll become the kind of man women rave about—the one who’s confident, stable, and going somewhere in life.</p>
 
-            <h2 style="font-family: 'Anton', Arial, sans-serif; font-size: 20px; color: #555; margin-top: 20px;">Why Most Guys Totally Miss the Boat on This</h2>
+            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">Why Most Guys Totally Miss the Boat on This</h2>
 
             <p>Let’s get real. Ambition is a rare quality these days. Most guys fall into one of two camps:</p>
 
@@ -28,7 +28,7 @@ const body = `
 
             <p>Neither of these guys is winning hearts. Why? Because women—especially the high-quality, faith-filled ones—are looking for a guy who’s <strong>going somewhere</strong> but is also <strong>content with the journey.</strong> They want to feel safe, secure, and inspired—not dragged along in chaos or stuck in a rut.</p>
 
-            <h2 style="font-family: 'Anton', Arial, sans-serif; font-size: 20px; color: #555; margin-top: 20px;">The Foolproof Formula for Cultivating Ambition and Contentment</h2>
+            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">The Foolproof Formula for Cultivating Ambition and Contentment</h2>
 
             <p>Here’s how to get this right:</p>
 
@@ -40,18 +40,18 @@ const body = `
                 <li><strong>Stay Connected to God:</strong> Pray over your plans. Trust His guidance (Proverbs 16:9).</li>
             </ul>
 
-            <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 16px;">
+            <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
                 <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it—right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start.
             </div>
 
-            <h2 style="font-family: 'Anton', Arial, sans-serif; font-size: 20px; color: #555; margin-top: 20px;">Coming Next Week in the <em>Man of Destiny Newsletter</em></h2>
+            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">Coming Next Week in the <em>Man of Destiny Newsletter</em></h2>
 
             <p>Next week, I’ll show you how to put your newfound ambition and contentment on full display—naturally and effortlessly. Whether it’s impressing the right people who can introduce you to your future bride or catching the eye of an incredible young lady herself, you’ll learn how to let your actions do the talking.</p>
 
             <p>Until then, get to work—you’re on the path to becoming the man she’s been praying for.</p>
         </div>
 
-        <div style="font-size: 12px; text-align: center; margin-top: 30px; color: #777;">
+        <div style="font-size: 15px; text-align: center; margin-top: 30px; color: #777;">
             © 2025 Man of Destiny Newsletter | All rights reserved.
         </div>
     </div>
