@@ -54,8 +54,7 @@ const body = `
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
                 If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
-                "<a href="https://www.sourceofallwealth.com/p-thirty-one-woman/" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">
-                    How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
+                "<a href="https://www.sourceofallwealth.com/p-thirty-one-woman/" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
                  NOW! I'll show you how I found my "Proverbs 31 Wife!"
             </p>
         </div>
