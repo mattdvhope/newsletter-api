@@ -15,9 +15,9 @@ const body = `
         <div style="font-size: 21px; line-height: 2; color: #333;">
             <p>Hey, you. Yeah, you -— the guy grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
-            <p>Well, let me tell you something, my friend. You absolutely DO have what it takes —- but only if you learn the secret weapon I’m about to share: <strong>ambition balanced with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider—the man who’s confident, stable, and going somewhere in life.</p>
+            <p>Well, let me tell you something, my friend. You absolutely DO have what it takes —- but only if you learn the secret weapon I’m about to share: <strong>ambition balanced with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
-            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">Why Most Men Totally Miss the Boat on This</h2>
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Why Most Men Totally Miss the Boat on This"</h2>
 
             <p>Let’s get real. Ambition is a rare quality these days. Most men fall into one of two camps:</p>
 
@@ -28,7 +28,7 @@ const body = `
 
             <p>Neither of these guys is winning hearts. Why? Because women—especially the high-quality, Proverbs 31 types—are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired—not dragged along in chaos or stuck in a rut.</p>
 
-            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">The Foolproof Formula for Cultivating Ambition and Contentment</h2>
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"The Foolproof Formula for Cultivating Ambition and Contentment"</h2>
 
             <p>Here’s how to get this right:</p>
 
@@ -43,7 +43,7 @@ const body = `
                 <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it -— right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start.
             </div>
 
-            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">Coming Next Week in the <em>Man of Destiny Newsletter</em></h2>
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Coming Next Week in the <em>Man of Destiny Newsletter</em>"</h2>
 
             <p>Next week, I’ll show you how to put your newfound ambition and contentment on full display -— naturally and effortlessly. Whether it’s impressing the right people who can introduce you to your future bride or catching the eye of an incredible young lady herself, you’ll learn how to let your actions do the talking.</p>
 
