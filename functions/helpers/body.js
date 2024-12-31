@@ -6,37 +6,36 @@ const body = `
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Man of Destiny Newsletter</title>
-    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </head>
 <body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
     <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
-        <h1 style="font-family: Impact, Arial, sans-serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px;">How to Become the Rare Christian Man Women Can’t Stop Talking About... Even If You’re Broke, Busy, and Barely Getting By!</h1>
+        <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px;">How to Become the Rare Christian Man That “Proverbs 31 Women” Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!</h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you—the guy grinding away at his 9-to-5 (or maybe 5-to-9) and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
+            <p>Hey, you. Yeah, you—the guy grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
-            <p>Well, let me tell you something, my friend. You absolutely DO have what it takes—but only if you learn the secret weapon I’m about to share: <strong>ambition balanced with contentment.</strong> Master this, and you’ll become the kind of man women rave about—the one who’s confident, stable, and going somewhere in life.</p>
+            <p>Well, let me tell you something, my friend. You absolutely DO have what it takes—but only if you learn the secret weapon I’m about to share: <strong>ambition balanced with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider—the man who’s confident, stable, and going somewhere in life.</p>
 
-            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">Why Most Guys Totally Miss the Boat on This</h2>
+            <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">Why Most Men Totally Miss the Boat on This</h2>
 
-            <p>Let’s get real. Ambition is a rare quality these days. Most guys fall into one of two camps:</p>
+            <p>Let’s get real. Ambition is a rare quality these days. Most men fall into one of two camps:</p>
 
             <ul style="padding-left: 20px;">
-                <li><strong>The Lazy Dreamer</strong>—always <em>talking</em> about his big plans but never lifting a finger to make them happen.</li>
+                <li><strong>The Lazy Dreamer</strong>—always talking about his big plans but never lifting a finger to make them happen.</li>
                 <li><strong>The Frenzied Workaholic</strong>—chasing success so hard he forgets to live, let alone leave room for a wife.</li>
             </ul>
 
-            <p>Neither of these guys is winning hearts. Why? Because women—especially the high-quality, faith-filled ones—are looking for a guy who’s <strong>going somewhere</strong> but is also <strong>content with the journey.</strong> They want to feel safe, secure, and inspired—not dragged along in chaos or stuck in a rut.</p>
+            <p>Neither of these guys is winning hearts. Why? Because women—especially the high-quality, Proverbs 31 types—are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired—not dragged along in chaos or stuck in a rut.</p>
 
-            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">The Foolproof Formula for Cultivating Ambition and Contentment</h2>
+            <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">The Foolproof Formula for Cultivating Ambition and Contentment</h2>
 
             <p>Here’s how to get this right:</p>
 
             <ul style="padding-left: 20px;">
                 <li><strong>Get Clear on Your Goals:</strong> Write them down. Do you want a better job? A debt-free life? A house for your future family? Make it real.</li>
-                <li><strong>Work Your Tail Off:</strong> Sign up for that course, apply for that promotion, or start that side hustle. Move closer to your goal.</li>
-                <li><strong>Say “Thanks” Every Day:</strong> Gratitude keeps you grounded. Thank God for three things every morning.</li>
-                <li><strong>Celebrate Your Wins:</strong> Small wins add up. Appreciate progress.</li>
+                <li><strong>Work Your Tail Off:</strong> Sign up for that course, apply for that promotion, or start that side hustle. Move closer to your goal. Use a Goal Card! (I talk about your “Goal Card” a lot in my book!)</li>
+                <li><strong>Say “Thanks” Every Day:</strong> Thank God for three things every morning.</li>
                 <li><strong>Stay Connected to God:</strong> Pray over your plans. Trust His guidance (Proverbs 16:9).</li>
             </ul>
 
@@ -44,7 +43,7 @@ const body = `
                 <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it—right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start.
             </div>
 
-            <h2 style="font-family: Impact, Arial, sans-serif; font-size: 25px; color: #555; margin-top: 20px;">Coming Next Week in the <em>Man of Destiny Newsletter</em></h2>
+            <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">Coming Next Week in the <em>Man of Destiny Newsletter</em></h2>
 
             <p>Next week, I’ll show you how to put your newfound ambition and contentment on full display—naturally and effortlessly. Whether it’s impressing the right people who can introduce you to your future bride or catching the eye of an incredible young lady herself, you’ll learn how to let your actions do the talking.</p>
 
