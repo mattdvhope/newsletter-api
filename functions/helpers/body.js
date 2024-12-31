@@ -1,3 +1,3 @@
-const body = `body content`
+const body = `body content`;
 
-export body;
+export { body };
