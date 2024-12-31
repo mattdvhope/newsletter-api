@@ -19,7 +19,7 @@ const body = `
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Why Most Men Totally Miss the Boat on This"</h2>
 
-            <p>Let’s get real. Ambition is a rare quality these days. Most men fall into one of two camps:</p>
+            <p>Let’s get real. "Balanced Ambition" is a rare quality these days. Most men fall into one of two camps:</p>
 
             <ul style="padding-left: 20px;">
                 <li><strong>The Lazy Dreamer</strong>—always talking about his big plans but never lifting a finger to make them happen.</li>
