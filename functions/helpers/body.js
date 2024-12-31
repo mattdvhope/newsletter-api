@@ -51,6 +51,15 @@ const body = `
             <p>Until then, get to work -— you’re on the path to becoming the man she’s been praying for.</p>
         </div>
 
+        <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #333; margin-top: 40px;">
+            <p style="font-style: italic; font-weight: bold;">
+                If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
+                <a href="https://www.sourceofallwealth.com/p-thirty-one-woman/" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">
+                    "How to Find the Ideal Wife: A Proverbs 31 Woman!"
+                </a> NOW! I'll show you how I found my "Proverbs 31 woman!"
+            </p>
+        </div>
+
         <div style="font-size: 15px; text-align: center; margin-top: 30px; color: #777;">
             © 2025 Man of Destiny Newsletter | All rights reserved.
         </div>
