@@ -14,12 +14,15 @@ const mg = mailgun.client({
 // Function to send an email
 const sendEmailWithMailgun = async (email) => {
     try {
+        // Inject the email into the unsubscribe link
+        const personalizedBody = emailContent.body.replace('{{email}}', encodeURIComponent(email));
+
         await mg.messages.create(process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com', {
             from: `Matt Malone - Author <info@${process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com'}>`,
             to: [email],
             subject: emailContent.subject, // Use subject from emailContent
             text: "Thank you for signing up for the newsletter!", // Plain text fallback
-            html: emailContent.body, // Use HTML body from emailContent
+            html: personalizedBody, // Use personalized HTML body
         });
         console.log("Email sent successfully");
     } catch (error) {
