@@ -15,7 +15,7 @@ const body = `
         <div style="font-size: 21px; line-height: 2; color: #333;">
             <p>Hey, you. Yeah, you -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
-            <p>Well, let me tell you something, my friend. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
+            <p>Well, let me tell you something. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Why Most Men Totally Miss the Boat on This"</h2>
 
