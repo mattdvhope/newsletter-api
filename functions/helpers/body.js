@@ -28,7 +28,7 @@ const body = `
 
             <p>Neither of these men is winning hearts. Why? Because women —- especially the high-quality, Proverbs 31 types —- are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired -— not dragged along in chaos or stuck in a rut.</p>
 
-            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"The Foolproof Formula for Cultivating Ambition and Contentment"</h2>
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Your Foolproof Formula for Cultivating Ambition and Contentment"</h2>
 
             <p>Here’s how to get this right:</p>
 
