@@ -41,7 +41,7 @@ const body = `
             </ul>
 
             <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
-                <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it -— right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start. You don't have to set a goal every day, but you can spend every day working on your goal!
+                <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it -— right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start. Remember, "You don't have to set a goal every working day, but you CAN spend every working day on your goal!"
             </div>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Coming Next Week in the <em>Man of Destiny Newsletter</em>"</h2>
