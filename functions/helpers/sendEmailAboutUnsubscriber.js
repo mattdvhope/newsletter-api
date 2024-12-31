@@ -29,9 +29,9 @@ const sendEmailAboutUnsubscriber = async (unsubscribedEmail) => {
             html: body, // Use the HTML body
         });
 
-        console.log('Admin notification email sent successfully');
+        console.log('Admin unsubscribe notification email sent successfully');
     } catch (error) {
-        console.error('Error sending admin notification email:', error);
+        console.error('Error sending admin unsubscribe notification email:', error);
         throw error; // Rethrow the error to handle it in the calling function
     }
 };
