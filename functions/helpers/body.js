@@ -48,7 +48,7 @@ const body = `
 
             <p>Next week, I’ll show you how to put your newfound ambition and contentment on full display -— naturally and effortlessly. Whether it’s impressing the right people who can introduce you to your future bride or catching the eye of an incredible young lady herself, you’ll learn how to let your actions do the talking.</p>
 
-            <p>Until then, get to work -— you’re on the path to becoming the man she’s been praying for.</p>
+            <p>Until then, get to work -— you’re on the path to becoming the man a Proverbs 31 woman has been praying for.</p>
         </div>
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
