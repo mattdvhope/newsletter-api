@@ -10,7 +10,7 @@ const body = `
 </head>
 <body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
     <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
-        <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">"How to Become that 'Rare Christian Man' a Proverbs 31 Woman Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!"</h1>
+        <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">"How to Become that 'Rare Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!"</h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
             <p>Hey, you. Yeah, you -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
