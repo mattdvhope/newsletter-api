@@ -1,6 +1,7 @@
 // functions/process-unsubscribe.js
 
 import buildResponse from './utils/buildResponse';
+import sendEmailAboutUnsubscriber from './helpers/sendEmailAboutUnsubscriber';
 
 exports.handler = async (event) => {
     const origin = event.headers.origin;
@@ -21,6 +22,9 @@ exports.handler = async (event) => {
         }
 
         console.log(`Unsubscribe request received for email: ${email}`);
+
+        // Send notification to admin
+        await sendEmailAboutUnsubscriber(email);
 
         return buildResponse(200, {
             message: 'Unsubscribe request processed successfully.',
