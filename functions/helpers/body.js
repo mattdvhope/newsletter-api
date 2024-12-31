@@ -13,7 +13,7 @@ const body = `
         <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px;">How to Become the Rare Christian Man That a “Proverbs 31 Woman” Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!</h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you -— the guy grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
+            <p>Hey, you. Yeah, you -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
             <p>Well, let me tell you something, my friend. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
@@ -26,7 +26,7 @@ const body = `
                 <li><strong>The Frenzied Workaholic</strong>—chasing success so hard he forgets to live, let alone leave room for a wife.</li>
             </ul>
 
-            <p>Neither of these guys is winning hearts. Why? Because women —- especially the high-quality, Proverbs 31 types —- are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired -— not dragged along in chaos or stuck in a rut.</p>
+            <p>Neither of these men is winning hearts. Why? Because women —- especially the high-quality, Proverbs 31 types —- are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired -— not dragged along in chaos or stuck in a rut.</p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"The Foolproof Formula for Cultivating Ambition and Contentment"</h2>
 
