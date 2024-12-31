@@ -36,7 +36,7 @@ const body = `
                 <li><strong>Get Clear on Your Goals:</strong> Write them down. Do you want a better job? A debt-free life? A house for your future family? Make it real.</li>
                 <li><strong>Work Your Tail Off:</strong> Sign up for that course, apply for that promotion, or start that side hustle. Move closer to your goal. Use a Goal Card! (<em>I talk about your “Goal Card” a lot in my book!</em>)</li>
                 <li><strong>Say “Thanks” Every Day:</strong> Thank God for one specific blessing in your life every morning.</li>
-                <li><strong>Intentionally Give Yourself Time Off!:</strong> Give yourself at least one "Sabbath Rest" day. God designed us to work no more than 6 days per week. Give yourself a full day off and enjoy the WONDERFUL effects on your health, happiness, AND attractiveness!</li>
+                <li><strong>Intentionally Give Yourself Time Off!:</strong> Give yourself at least one "Sabbath Rest" day. God designed us to work no more than 6 days per week. Give yourself a full day off and enjoy the WONDERFUL effects on your health, happiness, AND magnetism!</li>
                 <li><strong>Stay Connected to God:</strong> Pray over your plans. Trust Him to guide you in everything you do! (Proverbs 16:9)</li>
             </ul>
 
