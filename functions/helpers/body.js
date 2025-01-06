@@ -55,7 +55,7 @@ const body = `
             <p style="font-style: italic; font-weight: bold;">
                 If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
                 "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
-                 NOW! I'll show you how I, as a flat broke, super-shy, pencil-neck geek, found my "Proverbs 31 Wife!"
+                 NOW! I'll show you how I, as a flat broke, super-shy, pencil-neck geek, found my "Proverbs 31 Wife!" ...and how YOU can too, {{first_name_or_nickname}}!!
             </p>
         </div>
 
