@@ -13,7 +13,7 @@ const body = `
         <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">"How to Become that Rare 'Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!"</h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you, {{first_name_or_nickname1}} -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
             <p>Well, let me tell you something. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
@@ -54,7 +54,7 @@ const body = `
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
                 If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
-                "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname2}}&email={{email1}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
+                "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
                  NOW! I'll show you how I, as a flat broke, super-shy, pencil-neck geek, found my "Proverbs 31 Wife!"
             </p>
         </div>
