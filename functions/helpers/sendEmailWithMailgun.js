@@ -16,8 +16,10 @@ const sendEmailWithMailgun = async (name, email) => {
     try {
         // Inject the email into the unsubscribe link
         const personalizedBody = emailContent.body
-            .replace('{{email}}', encodeURIComponent(email))
-            .replace('{{first_name_or_nickname}}', encodeURIComponent(name));
+            .replace('{{email1}}', encodeURIComponent(email))
+            .replace('{{email2}}', encodeURIComponent(email))
+            .replace('{{first_name_or_nickname1}}', encodeURIComponent(name));
+            .replace('{{first_name_or_nickname2}}', encodeURIComponent(name));
 
         await mg.messages.create(process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com', {
             from: `Matt Malone - Author <info@${process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com'}>`,
