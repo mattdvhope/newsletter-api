@@ -13,7 +13,7 @@ const body = `
         <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">"How to Become THE Rare 'Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!"</h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} -— the man grinding away at his 9-to-5 (or maybe 5-to-9) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} -— the man grinding away at his 8am-to-5pm (or maybe 5am-to-8pm) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
             <p>Well, let me tell you something. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
