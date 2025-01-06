@@ -22,7 +22,7 @@ exports.handler = async (event) => {
         }
 
         console.log('Newsletter registration request received:', { name, email });
-        await sendEmailWithMailgun(email);
+        await sendEmailWithMailgun(name, email);
 
         return buildResponse(200, {
             message: 'Newsletter registration processed successfully.',
