@@ -31,18 +31,18 @@ const body = `
                 "Here Are 10 Activities to Start Right Away"
             </h2>
 
-            <ul style="padding-left: 20px;">
-                <li>1. Volunteer for anything (that doesn’t take up too much time)</li>
-                <li>2. Join Toastmasters</li>
-                <li>3. Participate in a Sports League, Pickleball Club, etc</li>
-                <li>4. Join a Hiking or Biking Club</li>
-                <li>5. Join an evening Bible study group</li>
-                <li>6. Take an Evening Graphic Design Class</li>
-                <li>7. Mentor or tutor kids through a school or church</li>
-                <li>8. Join a choir or worship team</li>
-                <li>9. Take part in mission trips or service projects</li>
-                <li>10. Join a local business or entrepreneurial group</li>
-            </ul>
+            <ol style="padding-left: 20px;">
+                <li>Volunteer for anything (that doesn’t take up too much time)</li>
+                <li>Join Toastmasters</li>
+                <li>Participate in a Sports League, Pickleball Club, etc</li>
+                <li>Join a Hiking or Biking Club</li>
+                <li>Join an evening Bible study group</li>
+                <li>Take an Evening Graphic Design Class</li>
+                <li>Mentor or tutor kids through a school or church</li>
+                <li>Join a choir or worship team</li>
+                <li>Take part in mission trips or service projects</li>
+                <li>Join a local business or entrepreneurial group</li>
+            </ol>
 
             <p>If you brainstorm, you can think of a gazillion other possibilities. Just make sure you don’t join a “Zoom group”—unless it will lead to a face-to-face gathering soon!</p>
 
@@ -60,8 +60,8 @@ const body = `
 
             <p>Two kinds...</p>
             <ol>
-                <li>1. Possible Proverbs 31 women.</li>
-                <li>2. “Authorities and Influencers” over them.</li>
+                <li>Possible Proverbs 31 women.</li>
+                <li>“Authorities and Influencers” over them.</li>
             </ol>
 
             <p>Next week I’ll talk to you about these all-important “Authorities and Influencers” in your quest for your Proverbs 31 wife!</p>
