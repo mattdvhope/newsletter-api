@@ -52,7 +52,7 @@ const body = `
             <p>If you brainstorm, you can think of a gazillion other possibilities. Just make sure you don’t join a “Zoom group”—unless it will lead to a face-to-face gathering soon!</p>
 
             <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
-                <strong>Your Action Item:</strong> At whichever gathering you go to, keep your phone in your pocket and your attention focused on the face of the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.
+                <strong>Your Action Item:</strong>Research at least two different "groups" you can join to get <b>engaged in the culture</b>. Figure out how much time you spend frittering away your time each week online. Then REPLACE a big chunk of that "digital time" with face-to-face activities—getting involved with <b>real people!</b>
             </div>
 
             <p>The more you talk--and, more importantly, listen—-the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. Such a skill will go a long way in preparing you to meet YOUR Proverbs 31 woman!</p>
