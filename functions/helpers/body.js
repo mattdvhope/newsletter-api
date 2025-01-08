@@ -32,7 +32,7 @@ const body = `
 
             <p>You’ve got to <b>engage in the culture</b>. And when I say, “engage,” I do not mean digitally. I mean face-to-face, nose-to-nose, toes-to-toes interaction with real flesh-and-blood human beings—-week in and week out! And not just at work. You need to break out of your “man cave”—-with its screens surrounding you like so many iron prison bars—-and <b>get into the REAL WORLD!</b></p>
 
-            <p>Here is a list of ten activities you could easily start doing right away. Joining one or two of these wouldn’t take up too much time in your schedule.</p>
+            <p>Here is a list of ten activities you could easily start doing right away. Joining one or two of these wouldn’t take up too much time from your schedule.</p>
 
             <ol style="padding-left: 20px;">
                 <li>Volunteer for anything</li>
