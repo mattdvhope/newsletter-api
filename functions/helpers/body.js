@@ -41,18 +41,51 @@ const body = `
             }
 
             .cta-link {
-                font-size: 22px;
-                color: #ffffff;
-                text-decoration: none;
-                font-weight: bold;
-                padding: 12px 24px;
-                background-color: #007acc;
-                border-radius: 4px;
+                width: 298px; /* Button width */
+                height: 60px; /* Button height */
                 display: inline-block;
+                text-align: center;
+                line-height: 60px; /* Align text vertically */
+                border: 1px solid #df0303; /* Red border */
+                border-radius: 30px; /* Rounded corners */
+                padding: 12px;
+                background-color: #df0303; /* Red background */
+                background-image: 
+                    radial-gradient(75% 60% at 50% 10%, #ffe4e4, transparent), 
+                    radial-gradient(75% 45% at 50% 90%, #fc8d8d, transparent); /* Gradients for red */
+                box-shadow: inset 0 -2px 4px 1px rgba(231, 17, 17, 0.6), 
+                            inset 0 -4px 4px 1px #fc8d8d, 
+                            inset 0 0 2px 1px rgba(255, 255, 255, 0.2), 
+                            0 1px 4px 1px rgba(231, 17, 17, 0.2), 
+                            0 1px 4px 1px rgba(0, 0, 0, 0.1); /* Depth and shading */
+                color: #fff; /* White text */
+                text-shadow: 0 1px 1px #e71111; /* Slight text shadow */
+                font-size: 22px; /* Font size */
+                font-family: 'Courier New', Courier, monospace; /* Font family */
+                text-decoration: none; /* Remove underline */
+                transition-property: border-color, transform, background-color;
+                transition-duration: 0.2s;
+                cursor: pointer;
+                position: relative; /* For the pseudo-element */
             }
 
             .cta-link:hover {
-                background-color: #005f99;
+                transform: scale(1.05); /* Slight grow on hover */
+                background-color: #e60000; /* Slightly darker red on hover */
+                border-color: #e60000; /* Match hover border */
+            }
+
+            .cta-link::after {
+                content: "";
+                position: absolute;
+                top: 1px;
+                left: 50%;
+                transform: translateX(-50%);
+                border-radius: 50%;
+                width: 80%;
+                height: 40%;
+                background-image: linear-gradient(to bottom, #ffe4e4, transparent); /* Highlight */
+                opacity: 0.75;
             }
 
             .footer {
