@@ -18,9 +18,11 @@ const body = `
         </h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} — <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">Last week</a> I talked about balancing ambition with contentment. I talked about how to avoid the two extremes of The Lazy Dreamer or The Frenzied Workaholic—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} — <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">Last week</a> I talked about <b>balancing ambition with contentment</b>. I talked about how to avoid the two extremes of <b>The Lazy Dreamer</b> or <b>The Frenzied Workaholic</b>—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
 
             <p>Now, assuming you can strike a balance between the two by becoming a high-achieving man who still enjoys life, how do you get that “quality” of yours across to other people—whether to the woman herself or to “influencers” in her life (which I’ll talk about more next week)?</p>
+
+            <p>To display your character, you need to <b>break out of the digital</b> world that so many young men these days hermetically seal themselves into.</p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">
                 "Ditch Digital Dating and Get Into the REAL WORLD!"
@@ -28,7 +30,7 @@ const body = `
 
             <p>If you remain inside your “digital bubble” for the rest of your existence on planet earth, the likelihood of your ever meeting a Proverbs 31 woman (much less marrying one) will prove almost nil.</p>
 
-            <p>You’ve got to engage in the culture. And when I say, “engage,” I do not mean digitally. I mean face-to-face, nose-to-nose, toes-to-toes interaction with real flesh-and-blood human beings—week in and week out! And not just at work. You need to break out of your “man cave”—with its screens surrounding you like so many iron prison bars—and get into the REAL WORLD!</p>
+            <p>You’ve got to <b>engage in the culture</b>. And when I say, “engage,” I do not mean digitally. I mean face-to-face, nose-to-nose, toes-to-toes interaction with real flesh-and-blood human beings—week in and week out! And not just at work. You need to break out of your “man cave”—with its screens surrounding you like so many iron prison bars—-and <b>get into the REAL WORLD!</b></p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">
                 "Here Are 10 Activities to Start Right Away"
@@ -53,7 +55,7 @@ const body = `
                 <strong>Your Action Item:</strong> At whichever gathering you go to, keep your phone in your pocket and your attention focused on the face of the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.
             </div>
 
-            <p>The more you talk--and, more importantly, listen—the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. Such a skill will go a long way in preparing you to meet YOUR Proverbs 31 woman!</p>
+            <p>The more you talk--and, more importantly, listen—-the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. Such a skill will go a long way in preparing you to meet YOUR Proverbs 31 woman!</p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">
                 "Coming Up in the Next Man of Destiny Letter"
@@ -69,7 +71,7 @@ const body = `
 
             <p>Next week I’ll talk to you about these all-important “Authorities and Influencers” in your quest for your Proverbs 31 wife!</p>
             
-            <p>Until then, get to work—you’re on the path to becoming the man a Proverbs 31 woman has been praying for.</p>
+            <p>Until then, get to work—-you’re on the path to becoming the man a Proverbs 31 woman has been praying for.</p>
         </div>
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
