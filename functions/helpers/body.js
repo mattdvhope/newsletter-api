@@ -18,7 +18,7 @@ const body = `
         </h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you, friend — Last week I talked about balancing ambition with contentment. I talked about how to avoid the two extremes of The Lazy Dreamer or The Frenzied Workaholic—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} — <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">Last week</a> I talked about balancing ambition with contentment. I talked about how to avoid the two extremes of The Lazy Dreamer or The Frenzied Workaholic—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
 
             <p>Now, assuming you can strike a balance between the two by becoming a high-achieving man who still enjoys life, how do you get that “quality” of yours across to other people—whether to the woman herself or to “influencers” in her life (which I’ll talk about more next week)?</p>
 
