@@ -55,7 +55,7 @@ const body = `
 
             <hr>
             <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
-                <strong>Your Action Item:</strong>Research at least two different "groups" you can join to get <b>engaged in the culture</b>. Figure out how much time you spend frittering away your time each week online. Then REPLACE a big chunk of that "digital time" with face-to-face activities—getting involved with <b>real people!</b>
+                <strong>Your Action Item: </strong>Research at least two different "groups" you can join to get <b>engaged in the culture</b>. Figure out how much time you spend frittering away your time each week online. Then REPLACE a big chunk of that "digital time" with face-to-face activities—getting involved with <b>real people!</b>
             </div>
             <hr>
 
