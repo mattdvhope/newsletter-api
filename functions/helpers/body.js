@@ -22,7 +22,7 @@ const body = `
 
             <p>Now, assuming you <b>can</b> strike a balance between the two by becoming a high-achieving man who still enjoys life, how do you get that “quality” of yours across to other people—whether to the woman herself or to “influencers” in her life (which I’ll talk about more next week)?</p>
 
-            <p>To display your character, you need to <b>break out of the digital</b> world that so many young men these days hermetically seal themselves into.</p>
+            <p>To display your character, you need to <b>break out of the digital world</b> that so many young men these days hermetically seal themselves into.</p>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">
                 "Ditch Digital Dating and Get Into the REAL WORLD!"
@@ -32,26 +32,26 @@ const body = `
 
             <p>You’ve got to <b>engage in the culture</b>. And when I say, “engage,” I do not mean digitally. I mean face-to-face, nose-to-nose, toes-to-toes interaction with real flesh-and-blood human beings—-week in and week out! And not just at work. You need to break out of your “man cave”—-with its screens surrounding you like so many iron prison bars—-and <b>get into the REAL WORLD!</b></p>
 
-            <p>Here is a list of ten activities you could easily start doing right away. Joining one or two of these wouldn’t take up too much time in your schedule (which should include—at a minimum—work, church, and weightlifting already).</p>
+            <p>Here is a list of ten activities you could easily start doing right away. Joining one or two of these wouldn’t take up too much time in your schedule.</p>
 
             <ol style="padding-left: 20px;">
-                <li>Volunteer for anything (that doesn’t take up too much time)</li>
+                <li>Volunteer for anything</li>
                 <li>Join Toastmasters</li>
-                <li>Participate in a Sports League, Pickleball Club, etc</li>
+                <li>Join a Sports League</li>
                 <li>Join a Hiking or Biking Club</li>
-                <li>Join an evening Bible study group</li>
-                <li>Take an Evening Graphic Design Class</li>
-                <li>Mentor or tutor kids through a school or church</li>
+                <li>Join a Bible study group</li>
+                <li>Take a Graphic Design Class</li>
+                <li>Mentor or tutor kids</li>
                 <li>Join a choir or worship team</li>
-                <li>Take part in mission trips or service projects</li>
-                <li>Join a local business or entrepreneurial group</li>
+                <li>Take part in a service project</li>
+                <li>Join a local business group</li>
             </ol>
 
-            <p>If you brainstorm, you can think of a gazillion other possibilities. Just make sure you don’t join a “Zoom group”—unless it will lead to a face-to-face gathering soon!</p>
+            <p>If you brainstorm, you can think of a gazillion other possibilities.</p>
 
-            <p>At whichever gathering you go to, keep your phone in your pocket and your attention focused on the face of the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.</p>
+            <p>At the gathering, keep your phone in your pocket and your attention focused on the face of the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.</p>
 
-            <p>The more you talk--and, more importantly, listen—-the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. Such a skill will go a long way in preparing you to meet YOUR Proverbs 31 woman!</p>
+            <p>The more you talk and listen, the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. A great skill for meeting YOUR Proverbs 31 woman!</p>
 
             <hr>
             <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
@@ -63,7 +63,7 @@ const body = `
                 "Coming Up in the Next Man of Destiny Letter"
             </h2>
 
-            <p>What kinds of people do you want to “banter” with?</p>
+            <p>What kinds of people do you want to converse with?</p>
 
             <p>Two kinds...</p>
             <ol>
