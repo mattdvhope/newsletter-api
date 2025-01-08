@@ -1,143 +1,71 @@
 const body = `
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Man of Destiny</title>
-        <style>
-            /* Email-specific styles */
-            body {
-                margin: 0;
-                padding: 0;
-                background-color: #f4f4f4;
-                font-family: Arial, sans-serif;
-            }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Man of Destiny Newsletter</title>
+    <link href="https://fonts.googleapis.com/css2?family=Times&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
+    <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
+        <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">"How to Become that Rare 'Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About... Even If You’re Broke, Busy, and Barely Getting By!"</h1>
 
-            .email-container {
-                max-width: 600px;
-                margin: 20px auto;
-                background: #ffffff;
-                padding: 20px;
-                border-radius: 8px;
-                border: 1px solid #dddddd;
-                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-                box-sizing: border-box;
-            }
+        <div style="font-size: 21px; line-height: 2; color: #333;">
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} -— the man grinding away at his 8am-to-5pm (or maybe 5am-to-8pm) job and wondering if he’s ever gonna meet “the one.” You’ve been praying, hoping, maybe even staring at your reflection in the coffee shop window, thinking, <em>“Do I have what it takes?”</em></p>
 
-            h1 {
-                font-family: Georgia, serif;
-                font-size: 28px;
-                color: #333333;
-                text-align: center;
-                margin-bottom: 20px;
-                font-style: italic;
-            }
+            <p>Well, let me tell you something. You absolutely DO have what it takes if you learn the secret weapon I’m about to share: <strong>balancing ambition with contentment.</strong> Master this, and you’ll become the kind of man a Proverbs 31 woman will want to seriously consider —- the man who’s confident, stable, and going somewhere in life.</p>
 
-            .link-container {
-                text-align: center;
-                margin: 40px 0;
-            }
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Why Most Men Totally Miss the Boat on This"</h2>
 
-            .cta-link {
-                width: 298px; /* Button width */
-                height: 60px; /* Button height */
-                display: inline-block;
-                text-align: center;
-                line-height: 60px; /* Align text vertically */
-                border: 1px solid #df0303; /* Red border */
-                border-radius: 30px; /* Rounded corners */
-                padding: 12px;
-                background-color: #df0303; /* Red background */
-                background-image: 
-                    radial-gradient(75% 60% at 50% 10%, #ffe4e4, transparent), 
-                    radial-gradient(75% 45% at 50% 90%, #fc8d8d, transparent); /* Gradients for red */
-                box-shadow: inset 0 -2px 4px 1px rgba(231, 17, 17, 0.6), 
-                            inset 0 -4px 4px 1px #fc8d8d, 
-                            inset 0 0 2px 1px rgba(255, 255, 255, 0.2), 
-                            0 1px 4px 1px rgba(231, 17, 17, 0.2), 
-                            0 1px 4px 1px rgba(0, 0, 0, 0.1); /* Depth and shading */
-                color: #fff; /* White text */
-                text-shadow: 0 1px 1px #e71111; /* Slight text shadow */
-                font-size: 22px; /* Font size */
-                font-family: 'Courier New', Courier, monospace; /* Font family */
-                text-decoration: none; /* Remove underline */
-                transition-property: border-color, transform, background-color;
-                transition-duration: 0.2s;
-                cursor: pointer;
-                position: relative; /* For the pseudo-element */
-            }
+            <p>Let’s get real. "Balanced Ambition" is a rare quality these days. Most men fall into one of two camps:</p>
 
-            .cta-link:hover {
-                transform: scale(1.05); /* Slight grow on hover */
-                background-color: #e60000; /* Slightly darker red on hover */
-                border-color: #e60000; /* Match hover border */
-            }
+            <ul style="padding-left: 20px;">
+                <li><strong>The Lazy Dreamer</strong>—always talking about his big plans but never lifting a finger to make them happen.</li>
+                <li><strong>The Frenzied Workaholic</strong>—chasing success so hard he forgets to live, let alone leave room for a wife.</li>
+            </ul>
 
-            .cta-link::after {
-                content: "";
-                position: absolute;
-                top: 1px;
-                left: 50%;
-                transform: translateX(-50%);
-                border-radius: 50%;
-                width: 80%;
-                height: 40%;
-                background-image: linear-gradient(to bottom, #ffe4e4, transparent); /* Highlight */
-                opacity: 0.75;
-            }
+            <p>Neither of these men is winning hearts. Why? Because women —- especially the high-quality, Proverbs 31 types —- are looking for a man who’s going somewhere but is also content with the journey. They want to feel safe, secure, and inspired -— not dragged along in chaos or stuck in a rut.</p>
 
-            .footer {
-                font-family: Courier Prime, monospace;
-                font-size: 42px;
-                line-height: 1.5;
-                text-align: center;
-                color: #9b031b;
-                margin-top: 40px;
-            }
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Your Foolproof Formula for Cultivating Ambition and Contentment"</h2>
 
-            .footer p {
-                font-style: italic;
-                font-weight: bold;
-            }
+            <p>Here’s how to get this right:</p>
 
-            .copyright {
-                font-size: 15px;
-                text-align: center;
-                margin-top: 30px;
-                color: #777777;
-            }
+            <ul style="padding-left: 20px;">
+                <li><strong>Get Clear on Your Goals:</strong> Write them down. Do you want a better job? A debt-free life? A house for your future family? Make it real.</li>
+                <li><strong>Work Your Tail Off:</strong> Sign up for that course, apply for that promotion, or start that side hustle. Move closer to your goal. Use a Goal Card! (<em>I talk about your “Goal Card” a lot in my book!</em>)</li>
+                <li><strong>Say “Thanks” Every Day:</strong> Thank God for one specific blessing in your life every morning.</li>
+                <li><strong>Intentionally Give Yourself Time Off!:</strong> Give yourself at least one "Sabbath Rest" day. God designed us to work no more than 6 days per week. Give yourself a full day off and enjoy the WONDERFUL effects on your health, happiness, AND magnetism!</li>
+                <li><strong>Stay Connected to God:</strong> Pray over your plans. Trust Him to guide you in everything you do! (Proverbs 16:9)</li>
+            </ul>
 
-            /* Fallback styles for email clients */
-            a {
-                text-decoration: none;
-                color: inherit;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="email-container">
-            <!-- Main Link Section -->
-            <div class="link-container">
-                <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" class="cta-link">Tap here to view the latest "Man of Destiny" letter!</a>
+            <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
+                <strong>Your Action Item:</strong> Set one financial or career goal today. Take one small action toward it -— right now. Open a savings account, research a course, or ask your boss about growth opportunities. Just start. Remember, "You don't have to set a goal every working day, but you CAN spend every working day on your goal!"
             </div>
 
-            <!-- Additional Content -->
-            <div class="footer">
-                <p>
-                    If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
-                    "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
-                    NOW! I'll show you how I, as a flat broke, super-shy, pencil-neck geek, found my "Proverbs 31 Wife!" ...and how YOU can too, {{first_name_or_nickname}}!!
-                </p>
-            </div>
+            <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">"Coming Next Week in the <em>Man of Destiny Newsletter</em>"</h2>
 
-            <div class="copyright">
-                © 2025 Man of Destiny Newsletter | All rights reserved.
-            </div>
+            <p>Next week, I’ll show you how to put your newfound ambition and contentment on full display -— naturally and effortlessly. Whether it’s impressing the right people who can introduce you to your future bride or catching the eye of an incredible young lady herself, you’ll learn how to let your actions do the talking.</p>
+
+            <p>Until then, get to work -— you’re on the path to becoming the man a Proverbs 31 woman has been praying for.</p>
         </div>
-    </body>
-    </html>
+
+        <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
+            <p style="font-style: italic; font-weight: bold;">
+                If you want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
+                "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
+                 NOW! I'll show you how I, as a flat broke, super-shy, pencil-neck geek, found my "Proverbs 31 Wife!" ...and how YOU can too, {{first_name_or_nickname}}!!
+            </p>
+        </div>
+
+        <div style="font-size: 15px; text-align: center; margin-top: 30px; color: #777;">
+            © 2025 Man of Destiny Newsletter | All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
+
 
 `;
 
