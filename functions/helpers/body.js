@@ -49,7 +49,7 @@ const body = `
 
             <p>If you brainstorm, you can think of a gazillion other possibilities.</p>
 
-            <p>At the gathering, keep your phone in your pocket and your attention focused on the face of the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.</p>
+            <p>At the gathering, keep your phone in your pocket and your attention focused on the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.</p>
 
             <p>The more you talk and listen, the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. A great skill for meeting YOUR Proverbs 31 woman!</p>
 
