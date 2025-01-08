@@ -71,7 +71,7 @@ const body = `
                 <li>“Authorities and Influencers” over them.</li>
             </ol>
 
-            <p>In my next email, I’ll talk to you about these all-important “Authorities and Influencers” in your quest for your Proverbs 31 wife!</p>
+            <p>I’ll talk to you about these all-important “Authorities and Influencers” in your quest for your Proverbs 31 wife!</p>
             
             <p>Until then, get to work—-you’re on the path to becoming the man a Proverbs 31 woman has been praying for.</p>
         </div>
