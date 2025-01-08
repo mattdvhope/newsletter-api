@@ -60,7 +60,7 @@ const body = `
             <hr>
 
             <h2 style="font-family: Impact, Georgia, serif; font-size: 25px; color: #555; margin-top: 20px;">
-                "Coming Up in the Next Man of Destiny Letter"
+                "Coming Up in the Next 'Man of Destiny' Letter"
             </h2>
 
             <p>What kinds of people do you want to converse with?</p>
