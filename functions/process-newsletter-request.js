@@ -17,6 +17,9 @@ exports.handler = async (event) => {
     try {
         const { name, email } = JSON.parse(event.body);
 
+console.log("name: ", name);
+console.log("email: ", email);
+
         if (!name || !email) {
             return buildResponse(400, { message: 'Missing required fields: name or email.' }, origin);
         }
