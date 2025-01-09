@@ -91,6 +91,10 @@ const body = `
             </p>
         </div>
 
+        <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
+            <img src="https://drive.google.com/uc?id=1QPedCfBJBRd2Zng2KpsNb0Wk4NM5FsyS" alt="Proverbs 31 Woman" style="width: 100%; border-radius: 8px;">
+        </div>
+
         <div style="font-size: 15px; text-align: center; margin-top: 30px; color: #777;">
             © 2025 Man of Destiny Newsletter | All rights reserved.
         </div>
