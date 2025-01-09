@@ -27,7 +27,7 @@ const body = `
                 </p>
             </div>
 
-            <p>Now, assuming you <b>can</b> strike a balance between the two by becoming a high-achieving man who still enjoys life, how do you get that “quality” of yours across to other people—whether to the woman herself or to “influencers” in her life (which I’ll talk about more next time)?</p>
+            <p>Now, assuming you <b>can</b> strike a balance between the two extremes by becoming a high-achieving man who still enjoys life, how do you get that “quality” of yours across to other people—whether to the woman herself or to “influencers” in her life (which I’ll talk about more next time)?</p>
 
             <p>To display your character, you need to <b>break out of the digital world</b> that so many young men these days hermetically seal themselves into.</p>
 
