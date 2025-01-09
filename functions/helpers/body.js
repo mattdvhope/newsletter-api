@@ -58,7 +58,7 @@ const body = `
 
             <p>At the gathering, keep your phone in your pocket and your attention focused on the person in front of you. If you run out of things to say, ask lots of questions. People LOVE to talk about themselves.</p>
 
-            <p>The more you talk and listen, the more you GROW as a conversationalist! If you spend a solid year—two or three times per week—in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. A great skill for meeting YOUR Proverbs 31 woman!</p>
+            <p>The more you talk and listen, the more you GROW as a conversationalist! If you spend a solid year (two or three times per week) in real live conversation with actual human beings, just imagine how you will TRANSFORM your ability to “banter” with other folks. A great skill for meeting YOUR Proverbs 31 woman!</p>
 
             <hr>
             <div style="margin-top: 20px; padding: 15px; background: #f0f8ff; border-left: 4px solid #007acc; border-radius: 4px; font-weight: bold; font-size: 21px;">
