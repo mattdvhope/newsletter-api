@@ -19,6 +19,9 @@ const sendEmailWithMailgun = async (name, email) => {
             .replace(/{{email}}/g, encodeURIComponent(email))
             .replace(/{{first_name_or_nickname}}/g, encodeURIComponent(name));
 
+        const personalizedSubject = emailContent.subject
+            .replace(/{{first_name_or_nickname}}/g, encodeURIComponent(name));
+
         await mg.messages.create(process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com', {
             from: `Matt Malone - Author <info@${process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com'}>`,
             to: [email],
