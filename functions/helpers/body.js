@@ -11,7 +11,7 @@ const body = `
 <body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
     <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
         <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">
-            “How to Become that Rare 'Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About..."
+            “How you, {{first_name_or_nickname}}, can become that Rare 'Man of Destiny' a Proverbs 31 Woman Can’t Stop Thinking About..."
         </h1>
         <h1 style="font-family: Impact, Georgia, serif; font-size: 31px; color: #333; text-align: center; margin-bottom: 20px; font-style: italic;">
             ...By Putting your Character on Display!”
