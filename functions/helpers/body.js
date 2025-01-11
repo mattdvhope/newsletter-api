@@ -22,7 +22,7 @@ const body = `
 
             <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
                 <img src="https://drive.google.com/uc?id=1QPedCfBJBRd2Zng2KpsNb0Wk4NM5FsyS" alt="Proverbs 31 Woman" style="width: 100%; border-radius: 8px;">
-                <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
+                <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 1px;">
                     <p style="font-style: italic; font-weight: bold;">
                         If you, {{first_name_or_nickname}}, want to get the full skinny on how to magnetize a Proverbs 31 woman like a giant electromagnetic tractor beam, read my book, 
                         "<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
