@@ -25,7 +25,7 @@ const sendEmailWithMailgun = async (name, email) => {
         await mg.messages.create(process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com', {
             from: `Matt Malone - Author <info@${process.env.MAILGUN_DOMAIN || 'soaw4life@gmail.com'}>`,
             to: [email],
-            subject: emailContent.subject, // Use subject from emailContent
+            subject: personalizedSubject,
             text: "Thank you for signing up for the newsletter!", // Plain text fallback
             html: personalizedBody, // Use personalized HTML body
         });
