@@ -18,7 +18,7 @@ const body = `
         </h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} — <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">Last week</a> I talked about <b>balancing ambition with contentment</b>. I talked about how to avoid the two extremes of <b>The Lazy Dreamer</b> or <b>The Frenzied Workaholic</b>—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
+            <p>Hey, you. Yeah, you, {{first_name_or_nickname}} — <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">Last week</a> I talked about <b>balancing ambition with contentment</b>. I explained how to avoid the two extremes of <b>The Lazy Dreamer</b> or <b>The Frenzied Workaholic</b>—and how neither one of those qualities will make you attractive to a Proverbs 31 Woman.</p>
 
             <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
                 <img src="https://drive.google.com/uc?id=1QPedCfBJBRd2Zng2KpsNb0Wk4NM5FsyS" alt="Proverbs 31 Woman" style="width: 100%; border-radius: 8px;">
