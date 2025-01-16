@@ -102,7 +102,7 @@ const body = `
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #266e19; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
-                If you have already acquired my book, {{first_name_or_nickname}}, stay tuned! In a little while, I will release more material for you in your quest to become a Man of Destiny!!
+                If you have already acquired my book, {{first_name_or_nickname}}, stay tuned! In a little while, I will release more material for you in your quest to become a "Man of Destiny!!"
             </p>
         </div>
 
