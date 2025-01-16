@@ -50,7 +50,7 @@ const body = `
                 <li>Join a Sports League</li>
                 <li>Join a Hiking or Biking Club</li>
                 <li>Join a Bible study group</li>
-                <li>Take a Graphic Design Class</li>
+                <li>Take a Graphic Design Class (in any actual classroom)</li>
                 <li>Mentor or tutor kids</li>
                 <li>Join a choir or worship team</li>
                 <li>Take part in a service project</li>
@@ -98,6 +98,12 @@ const body = `
 
         <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
             <img src="https://drive.google.com/uc?id=1QPedCfBJBRd2Zng2KpsNb0Wk4NM5FsyS" alt="Proverbs 31 Woman" style="width: 100%; border-radius: 8px;">
+        </div>
+
+        <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #266e19; margin-top: 40px;">
+            <p style="font-style: italic; font-weight: bold;">
+                If you have already acquired my book, {{first_name_or_nickname}}, stay tuned! In a little while, I will release more material for you in your quest to become a Man of Destiny!!
+            </p>
         </div>
 
         <div style="font-size: 15px; text-align: center; margin-top: 30px; color: #777;">
