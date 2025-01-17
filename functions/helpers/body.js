@@ -20,7 +20,7 @@ const body = `
             <ul style="padding-left: 20px;">
                 <li>Three hard stats proving why dating apps are worse than useless for about 90% of men...</li>
                 <li>The truth of what ultimately attracts a woman to you. <b>Hint:</b> It’s not so much about you at all.</li>
-                <li>The “silver ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
+                <li>The “golden ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
             </ul>
 
             <p>As you probably know already, vast numbers of single men these days live in a state of crisis. They simply cannot find a wife. Dating apps have destroyed the playing field for a huge majority of them. Let me show you the grim statistics:</p>
