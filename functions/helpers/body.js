@@ -41,7 +41,7 @@ const body = `
 
             <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you, but about who you know?</p>
 
-            <p>Here’s the truth most men miss:<br>a woman’s attraction should not hinge on sharp features or an impressive résumé. You want her attraction to be sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can ever deliver. Women (far more than men) are wired to notice this “social proof.” It’s unconscious. And it’s powerful. When respected men vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart. This isn’t about “charm” or “luck.” It’s about understanding this hidden rule of attraction that most men don’t realize exists. And once you unlock it, everything changes.</p>
+            <p>Here’s the truth most men miss:<br>a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction is so often sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can ever deliver.<br>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it’s powerful. When respected men vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart. This isn’t about “charm” or “luck.” It’s about understanding the hidden rule of attraction that most men don’t realize exists. And once you understand this rule, everything changes.</p>
 
 
         </div>
