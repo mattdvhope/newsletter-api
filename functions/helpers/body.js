@@ -16,7 +16,7 @@ const body = `
             <ul style="padding-left: 20px;">
                 <li>Three hard statistics proving why dating apps are worse than useless for about 90% of men...</li>
                 <li>The truth of what ultimately attracts a woman to you. <b>Hint:</b> It’s not so much about you at all.</li>
-                <li>The “golden ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
+                <li>The “silver ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
             </ul>
 
             <p>As you probably know already, vast numbers of single men these days live in a state of crisis. They simply cannot find a wife. Dating apps have destroyed the playing field for a huge majority of them. Let me show you the grim statistics:</p>
@@ -37,14 +37,14 @@ const body = `
 
             <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you, but about who you know?</p>
 
-            <p>Here’s the truth most men miss: a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction is so often sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can even come close to.<br>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it is powerful. When respected men vouch for you, it’s like a “golden ticket” to her trust and admiration -- to her heart. This isn’t about “charm” or “luck.” It’s about understanding the hidden rule of attraction that most men don’t even realize exists. Once you understand this rule, everything changes for you.</p>
+            <p>Here’s the truth most men miss: a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction is so often sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can even come close to.<br>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it is powerful. When respected men vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart. This isn’t about “charm” or “luck.” It’s about understanding the hidden rule of attraction that most men don’t even realize exists. Once you understand this rule, everything changes for you.</p>
 
 
         </div>
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
-                Do you, {{first_name_or_nickname}}, wish to obtain this “golden ticket?”
+                Do you, {{first_name_or_nickname}}, wish to obtain this “silver ticket?”
             </p>
             <p style="font-style: italic; font-weight: bold;">
                 My book, “<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
