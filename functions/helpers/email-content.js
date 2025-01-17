@@ -3,7 +3,7 @@
 import { body } from './body.js';
 
 const emailContent = {
-    subject: `"{{first_name_or_nickname}} - A Man of Destiny!" 1/9/25`,
+    subject: `"{{first_name_or_nickname}} - A Man of Destiny!" 1/17/25`,
     body: `${body}
     <p style="font-size: 14px; color: #777; text-align: center; margin-top: 20px;">
         If you no longer wish to receive these emails, you can 
