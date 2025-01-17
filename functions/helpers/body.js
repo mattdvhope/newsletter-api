@@ -31,7 +31,7 @@ const body = `
                 <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” is likely a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
             </ol>
 
-            <p>Dating apps truly are “worse than useless” because they drain away great swaths of your time while frustrating and destroying your self esteem. They steal the energy and creativity you could have put into solving this puzzle:</p>
+            <p>Dating apps truly are “worse than useless” because they drain away great swaths of your time while frustrating and destroying your self esteem. They steal the energy and creativity you could have put into solving this great puzzle:</p>
 
             <p>What will magnetize a woman to me?</p>
 
