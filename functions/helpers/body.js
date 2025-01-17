@@ -18,7 +18,7 @@ const body = `
             <p>Hello, {{first_name_or_nickname}}, today I’m going to show you...</p>
 
             <ul style="padding-left: 20px;">
-                <li>Three hard stats proving why dating apps are worse than useless for about 90% of men...</li>
+                <li>Three hard statistics proving why dating apps are worse than useless for about 90% of men...</li>
                 <li>The truth of what ultimately attracts a woman to you. <b>Hint:</b> It’s not so much about you at all.</li>
                 <li>The “golden ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
             </ul>
