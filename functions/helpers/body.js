@@ -27,7 +27,7 @@ const body = `
 
             <ol style="padding-left: 20px;">
                 <li> It’s a man’s game of musical chairs -- with no chairs left for most.<br>On apps like Tinder, men outnumber women 3 to 1. That means for every woman, there are three men swiping, competing, and losing -- hard.<br>80-90% of men are fighting over scraps.</li>
-                <li>Women swipe right on just 10% of men -- the rest don’t exist.<br>The top 10% get all the attention. If you’re not in that elite club, you’re invisible -- just another name in a sea of rejected profiles.</li>
+                <li>Women swipe right on just 10% of men -- the rest don’t exist.<br>The "top 10%" get nearly all the attention. If you’re not in that elite club, you’re invisible -- just another name in a sea of rejected profiles.</li>
                 <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” is likely a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
             </ol>
 
@@ -37,11 +37,11 @@ const body = `
 
             <p>What ultimately attracts a woman to a man is not his looks, status, or wealth -- but his ability to make her feel safe, seen, and valued on a deeply emotional level.<br>In all likelihood, you’ve heard probably something like this before: “It is how you make her <i>feel</i> that’s important.”<br>Nothing new here, right? But here’s the twist...</p>
 
-            <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a huge question: <i>HOW do I make her “feel” this way?</i><br>What if, while you may have a heart of gold, you happen to look like Elmer Fudd?<br>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩<br>Wait until you hear this...</p>
+            <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a huge question: <i>HOW do I make her “feel” this way?</i><br>What if, while you may have a heart of gold, you happen to look like Elmer Fudd?<br>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩<br>Here’s where it gets interesting...</p>
 
             <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you, but about who you know?</p>
 
-            <p>Here’s the truth most men miss:<br>a woman’s attraction should not hinge on sharp features or an impressive résumé. You want her attraction to be sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can ever deliver. Women (far more than men) are wired to notice this “social proof.” It’s unconscious. And it’s powerful. When respected men vouch for you, it’s like a “silver ticket” to her trust and admiration. This isn’t about “charm” or “luck.” It’s about understanding this hidden rule of attraction that most men don’t realize exists. And once you unlock it, everything changes.</p>
+            <p>Here’s the truth most men miss:<br>a woman’s attraction should not hinge on sharp features or an impressive résumé. You want her attraction to be sparked by the unspoken—and spoken—endorsements of people she respects. When the trusted men in her life—her father, brothers, mentors, or colleagues—speak highly of you, you gain an edge no swipe on a screen can ever deliver. Women (far more than men) are wired to notice this “social proof.” It’s unconscious. And it’s powerful. When respected men vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart. This isn’t about “charm” or “luck.” It’s about understanding this hidden rule of attraction that most men don’t realize exists. And once you unlock it, everything changes.</p>
 
 
         </div>
@@ -71,9 +71,6 @@ const body = `
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #266e19; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
                 If you have already acquired my book, {{first_name_or_nickname}}, stay tuned! In a little while, I will release more material for you in your quest to become a "Man of Destiny!!"
-            </p>
-            <p style="font-style: italic; font-weight: bold;">
-                <a href="https://www.sourceofallwealth.com/man-of-destiny/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" target="_blank">View Archives Here.</a>
             </p>
         </div>
 
