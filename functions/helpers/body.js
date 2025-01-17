@@ -15,7 +15,7 @@ const body = `
         </h1>
 
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hey, {{first_name_or_nickname}}, today I’m going to show you...</p>
+            <p>Hello, {{first_name_or_nickname}}, today I’m going to show you...</p>
 
             <ul style="padding-left: 20px;">
                 <li>Three hard stats proving why dating apps are worse than useless for about 90% of men...</li>
