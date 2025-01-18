@@ -35,7 +35,7 @@ const body = `
 
             <p>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”</p>
 
-            <p>Nothing new here, right? But here’s the question...</p>
+            <p>Nothing new here, right? But here’s the problem...</p>
 
             <p>While making her “feel” positive towards you is crucial, you’re still left with a painful question: <i>HOW do I make her “feel” this way?</i></p>
 
