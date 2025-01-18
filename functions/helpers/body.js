@@ -31,7 +31,7 @@ const body = `
 
             <p>What will magnetize a woman to me?</p>
 
-            <p>What ultimately attracts a woman to a man is not his looks, status, or wealth -- but his ability to make her feel safe, seen, and valued on a deeply emotional level.<br>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”<br>Nothing new here, right? But here’s the twist...</p>
+            <p>What ultimately attracts a woman to a man is not his looks, status, or wealth -- but his ability to make her feel safe, seen, and valued on a deeply emotional level.<br>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”<br>Nothing new here, right? But here’s the question...</p>
 
             <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a huge question: <i>HOW do I make her “feel” this way?</i><br>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩<br>Here’s where it gets interesting...</p>
 
