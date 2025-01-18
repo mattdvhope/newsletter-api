@@ -45,9 +45,7 @@ const body = `
 
             <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you -- but about who you know?</p>
 
-            <p>Here’s the truth most men miss: a woman’s attraction rarely hinges on sharp features or an impressive résumé.</p>
-
-            <p>Instead, her attraction (particularly with a high-quality woman) is above all sparked by the unspoken -- and spoken -- endorsements of people she respects.</p>
+            <p>The truth that most men miss is this: a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction (particularly with a high-quality woman) is above all sparked by the unspoken -- and spoken -- endorsements of people she respects.</p>
 
             <p>When the trusted men in her life -- her father, brothers, mentors, or colleagues -- speak highly of you, you gain an edge no swipe on a screen can even come close to.</p>
 
