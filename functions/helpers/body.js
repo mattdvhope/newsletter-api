@@ -22,7 +22,7 @@ const body = `
             <p>As you probably know already, vast numbers of single men these days live in a state of crisis. They simply cannot find a wife. Dating apps have destroyed the playing field for a huge majority of them. Let me show you the grim statistics:</p>
 
             <ol style="padding-left: 20px;">
-                <li> It’s a man’s game of musical chairs -- with no chairs left for most.<br>On apps like Tinder, men outnumber women 3 to 1. That means for every woman, there are three men swiping, competing, and losing -- hard.<br>80-90% of men are fighting over scraps.</li>
+                <li>It’s a game of musical chairs -- with no chairs left for most men.<br>On apps like Tinder, men outnumber women 3 to 1. That means for every woman, there are three men swiping, competing, and losing -- hard.<br>80-90% of men are fighting over scraps.</li>
                 <li>Women swipe right on just 10% of men -- the rest don’t exist.<br>The "top 10%" get nearly all the attention. If you’re not in that elite club, you’re invisible -- just another name in a sea of rejected profiles.</li>
                 <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” could very well be a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
             </ol>
@@ -37,13 +37,13 @@ const body = `
 
             <p>Nothing new here, right? But here’s the question...</p>
 
-            <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a burning question: <i>HOW do I make her “feel” this way?</i></p>
+            <p>While making her “feel” positive towards you is crucial, you’re still left with a painful question: <i>HOW do I make her “feel” this way?</i></p>
 
             <p>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩</p>
 
             <p>Here’s where it gets interesting...</p>
 
-            <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you, but about who you know?</p>
+            <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you -- but about who you know?</p>
 
             <p>Here’s the truth most men miss: a woman’s attraction rarely hinges on sharp features or an impressive résumé.</p>
 
