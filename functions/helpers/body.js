@@ -53,7 +53,7 @@ const body = `
 
             <p>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it is incredibly powerful. When respected men (and sometimes women) vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart.</p>
 
-            <p>This isn’t about “charm” or “luck.” It’s about understanding this iron rule of attraction that most men don’t even realize exists. Once you understand this rule, everything changes for you.</p>
+            <p>This isn’t about “charm” or “luck.” It’s about understanding this iron rule of attraction that most men don’t even realize exists. Once you understand how to implement this rule, everything changes for you.</p>
 
         </div>
 
