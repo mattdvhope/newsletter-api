@@ -37,7 +37,7 @@ const body = `
 
             <p>Nothing new here, right? But here’s the question...</p>
 
-            <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a huge question: <i>HOW do I make her “feel” this way?</i></p>
+            <p>While making her “feel” positive vibes towards you is crucial, you’re still left with a burning question: <i>HOW do I make her “feel” this way?</i></p>
 
             <p>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩</p>
 
