@@ -74,7 +74,7 @@ const body = `
             <ul style="font-style: italic; font-weight: bold;">
                 <li>How to gain a completely unfair advantage over 99.9% of your competition--making them irrelevant (page 26).</li>
                 <li>How to reclaim your “ancient masculinity” and become the man every highly feminine, traditional woman yearns for (page 54).</li>
-                <li>The secret to combining your “boyhood dreams” with your “wife of the ages” -- to conquer the all-important issue of your “net worth.” (page 62)</li>
+                <li>The secret to combining your “boyhood dreams” with your quest for a “wife of the ages” -- to conquer the all-important issue of your “net worth.” (page 62)</li>
                 <li>...and so much more!</li>
             </ul>                
         </div>
