@@ -24,7 +24,7 @@ const body = `
             <ol style="padding-left: 20px;">
                 <li> It’s a man’s game of musical chairs -- with no chairs left for most.<br>On apps like Tinder, men outnumber women 3 to 1. That means for every woman, there are three men swiping, competing, and losing -- hard.<br>80-90% of men are fighting over scraps.</li>
                 <li>Women swipe right on just 10% of men -- the rest don’t exist.<br>The "top 10%" get nearly all the attention. If you’re not in that elite club, you’re invisible -- just another name in a sea of rejected profiles.</li>
-                <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” is likely a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
+                <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” could very well be a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
             </ol>
 
             <p>Dating apps truly are “worse than useless” because they drain away great swaths of your time while frustrating and destroying your self esteem. They steal the energy and creativity you could have put into solving this great puzzle:</p>
