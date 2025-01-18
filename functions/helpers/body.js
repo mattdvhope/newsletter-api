@@ -31,9 +31,7 @@ const body = `
 
             <p>What will magnetize a woman to me?</p>
 
-            <p>What ultimately attracts a woman to a man is not his looks, status, or wealth -- but his ability to make her feel safe, seen, and valued on a deeply emotional level.</p>
-
-            <p>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”</p>
+             <p>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”</p>
 
             <p>Nothing new here, right? But here’s the problem...</p>
 
@@ -62,7 +60,7 @@ const body = `
                 Do you, {{first_name_or_nickname}}, wish to obtain this “silver ticket" to the heart of a Proverbs 31 woman?
             </p>
             <p style="font-style: italic; font-weight: bold;">
-                My book, “<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
+                My book, <a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>,
                  shows you how.
             </p>
         </div>
