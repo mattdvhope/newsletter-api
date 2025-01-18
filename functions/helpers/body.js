@@ -45,7 +45,7 @@ const body = `
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
-                Do you, {{first_name_or_nickname}}, wish to obtain this “silver ticket?”
+                Do you, {{first_name_or_nickname}}, wish to obtain this “silver ticket" to the heart of a Proverbs 31 woman?
             </p>
             <p style="font-style: italic; font-weight: bold;">
                 My book, “<a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>"
