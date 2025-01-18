@@ -55,6 +55,8 @@ const body = `
 
             <p>This isn’t about “charm” or “luck.” It’s about understanding this iron rule of attraction that most men don’t even realize exists. Once you understand how to implement this rule, everything changes for you.</p>
 
+            <p>While it would nice if I could explain to you how to implement this rule in a short email, I simply cannot. It requires a book (which you might want to read three or four times to make sure the principles sink deeply into your psyche).</p>
+
         </div>
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
