@@ -45,7 +45,7 @@ const body = `
 
             <p>The truth that most men miss is this: a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction (particularly with a high-quality woman) is above all sparked by the unspoken -- and spoken -- endorsements of people she respects.</p>
 
-            <p>When the trusted men in her life -- her father, brothers, mentors, or colleagues -- speak highly of you, you gain an edge no swipe on a screen can even come close to.</p>
+            <p>When the trusted men in her life -- her father, brothers, mentors, or colleagues -- speak highly of you, you gain an edge no swipe on a screen can even come close to. But there’s more to the story.</p>
 
             <p>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it is incredibly powerful. When respected men (and sometimes women) vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart.</p>
 
