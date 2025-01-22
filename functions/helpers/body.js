@@ -51,7 +51,7 @@ const body = `
 
             <p>This isn’t about “charm” or “luck.” It’s about understanding this iron rule of attraction that most men don’t even realize exists. Once you understand how to implement this rule, everything changes for you.</p>
 
-            <p>While it would nice if I could explain to you in a short email how I implemented this rule to find my wife, I simply cannot. It requires a book (which I recommend you read three or four times to make sure the concepts sink deeply into your psyche).</p>
+            <p>While it would nice if I could explain to you in a short email how to obtain this “silver ticket,” I simply cannot. It requires a book (which I recommend you read three or four times to make sure the concepts sink deeply into your psyche).</p>
 
         </div>
 
