@@ -25,8 +25,6 @@ const body = `
 
             <p>And yet we as men all face “fears within and fears without” that sometimes seem to crush our very souls. How can we do anything but to “cry out in anguish” when real trouble descends upon us -- casting us into our “dark night of the soul?”</p>
 
-
-
             <p>My suggestion to you is twofold:</p>
 
             <ol>
