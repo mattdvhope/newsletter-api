@@ -11,57 +11,49 @@ const body = `
 <body style="margin: 0; padding: 0; background-color: #d3d3d3; background-image: linear-gradient(to bottom, #d3d3d3, #ffffff); font-family: 'Courier Prime', monospace;">
     <div style="max-width: 600px; margin: 20px auto; background: #ffffff; padding: 20px; border-radius: 8px; border: 1px solid #ddd; box-sizing: border-box;">
         <div style="font-size: 21px; line-height: 2; color: #333;">
-            <p>Hello, {{first_name_or_nickname}}, today I’m going to show you...</p>
+            <p>Hello, {{first_name_or_nickname}}, today I want to talk about a phrase used quite often by young ladies back in my day -- in the 1980s and 1990s when I was a single fellow.</p>
 
-            <ul style="padding-left: 20px;">
-                <li>Three hard statistics proving why dating apps are worse than useless for about 90% of men...</li>
-                <li>The truth of what ultimately attracts a woman to you. <b>Hint:</b> It’s not so much about you at all.</li>
-                <li>The “silver ticket” that trumps all else in drawing a top-of-the-line young woman to you...</li>
-            </ul>
+            <p>The phrase, “an unaffected man,” seems to have fallen out of favor in this day and age.  People your age might use phrases like “authentic,” “real,” or “genuine” instead.</p>
 
-            <p>As you probably know already, vast numbers of single men these days live in a state of crisis. They simply cannot find a wife. Dating apps have destroyed the playing field for a huge majority of them. Let me show you the grim statistics:</p>
+            <p>Maybe I’m showing my age (58), but I personally prefer “unaffected” because it gets to the heart of the matter of where you want to be as a young man pursuing your “Proverbs 31” bride -- wherever she may reside!</p>
 
-            <ol style="padding-left: 20px;">
-                <li>It’s a game of musical chairs -- with no chairs left for most men.<br>On apps like Tinder, men outnumber women 3 to 1. That means for every woman, there are three men swiping, competing, and losing -- hard.<br>80-90% of men are fighting over scraps.</li>
-                <li>Women swipe right on just 10% of men -- the rest don’t exist.<br>The "top 10%" get nearly all the attention. If you’re not in that elite club, you’re invisible -- just another name in a sea of rejected profiles.</li>
-                <li>Fake profiles and scammers are your most consistent matches.<br>More than 60% of men under fifty report encountering scammers or fake profiles.<br>Your “dream girl” could very well be a bot -- or worse, a “Nigerian Prince” after your wallet.</li>
+            <p>Any woman, high quality or otherwise, longs for security deep down in the core of her being. When you bring the quality of “an unaffected man” to the table, you place yourself light years ahead of the other fellows out there.</p>
+
+            <p>A woman finds herself swept off her feet by a “pillar-like” character who stands against the winds and the storms, “unaffected” -- or at least seemingly -- by them.</p>
+            
+            <p>So if you find yourself so often “bending in the wind” and buckling under pressure, just know that whenever you display that aspect of your character, this turns off your potential bride.</p>
+
+            <p>And yet we as men all face “fears within and fears without” that sometimes seem to crush our very souls. How can we do anything but to “cry out in anguish” when real trouble descends upon us -- casting us into our “dark night of the soul?”</p>
+
+
+
+            <p>My suggestion to you is twofold:</p>
+
+            <ol>
+                <li>Cultivate manliness. Workout at the gym, pumping and sweating as you lift those weights. Actions like this will tend to drive out fear. Yes, we can never fully suppress our present crisis that we may live under. But we can deal with the emotions. Straining and hardening your muscles tends to calm you down. And, bonus, the muscle you add to your body tends to act almost like a “suit of armor,” shielding you (both psychologically and physically) from the storms of life.</li>
+                <li>Get into the Word of God. I once heard that the Bible contains 365 verses telling you, as the reader, not to fear. I don’t know if that’s the exact count, but it sure does have a lot of them on the subject of fear. Two of my favorites are near the beginning of the Bible</li>
             </ol>
 
-            <p>Dating apps truly are “worse than useless” because they drain away great swaths of your time while frustrating and destroying your self esteem. They steal the energy and creativity you could have put into solving this all-important puzzle:</p>
+            <ul>
+                <li>“After these things the word of the LORD came unto Abram in a vision, saying, FEAR NOT, Abram: I am thy shield, and THY EXCEEDING GREAT REWARD.” (Genesis 15:1)</li>
+                <li>“Have not I commanded thee? Be strong and of a good courage; BE NOT AFRAID, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.” (Joshua 1:9)</li>
+            </ul>
 
-            <p>What will magnetize a woman to me?</p>
+            <p>I capitalized the most powerful parts of these verses to me. I particularly like the fact that God is a person’s “exceeding great reward” -- not just the things God gives. Did you catch that? In other words, if you face a massive financial calamity at your doorstep, you can turn to this verse and say, “Hey, I’ve already got everything I need here. I’ve got God in my life! No matter what happens to me financially, He’s already my reward!”</p>
 
-             <p>In all likelihood, you’ve probably heard something like this before: “It is how you make her <i>feel</i> that’s important.”</p>
+            <p>Talk about “an unaffected man!” If you were to say that to yourself and to others around you, you sure would look like a “strong pillar of strength” to them -- including to your future bride!</p>
 
-            <p>Nothing new here, right? But here’s the problem...</p>
-
-            <p>While making her “feel” positive towards you is crucial, you’re still left with a painful question: <i>HOW do I make her “feel” this way?</i></p>
-
-            <p>What will stir up ‘that special feeling’ for you in the heart of a top-of-the-line young woman? 👩</p>
-
-            <p>Here’s where it gets interesting...</p>
-
-            <p>What if the key to attracting a Proverbs 31 woman isn’t so much about you -- but about who you know?</p>
-
-            <p>The truth that most men miss is this: a woman’s attraction rarely hinges on sharp features or an impressive résumé. Instead, her attraction (particularly with a high-quality woman) is above all sparked by the unspoken -- and spoken -- endorsements of people she respects.</p>
-
-            <p>When the trusted men in her life -- her father, brothers, mentors, or colleagues -- speak highly of you, you gain an edge no swipe on a screen can even come close to. But there’s more to the story.</p>
-
-            <p>Women (far more than men) are wired to notice this “social proof.” It is unconscious. And it is incredibly powerful. When respected men (and sometimes women) vouch for you, it’s like a “silver ticket” to her trust and admiration -- to her heart.</p>
-
-            <p>This isn’t about “charm” or “luck.” It’s about understanding this iron rule of attraction that most men don’t even realize exists. Once you understand how to implement this rule, everything changes for you.</p>
-
-            <p>While it would nice if I could explain to you in a short email how to obtain this “silver ticket,” I simply cannot. It requires a book (which I recommend you read three or four times to make sure the concepts sink deeply into your psyche).</p>
+            <p>Three cheers to you, {{first_name_or_nickname}}, the “unaffected man!”</p>
 
         </div>
 
         <div style="font-family: 'Courier Prime', monospace; font-size: 42px; line-height: 1.5; text-align: center; color: #9b031b; margin-top: 40px;">
             <p style="font-style: italic; font-weight: bold;">
-                Do you, {{first_name_or_nickname}}, wish to obtain this “silver ticket" to the heart of a Proverbs 31 woman?
+                Do you want to learn more about becoming “an unaffected man?”
             </p>
             <p style="font-style: italic; font-weight: bold;">
-                My book, <a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>,
-                 shows you how.
+                Check out my book, <a href="https://www.sourceofallwealth.com/get-p-thirty-one/?first_name_or_nickname={{first_name_or_nickname}}&email={{email}}" style="text-decoration: underline; font-style: italic; font-weight: bold; color: inherit;">How to Find the Ideal Wife: A Proverbs 31 Woman!</a>,
+                 to learn how.
             </p>
         </div>
 
